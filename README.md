@@ -6,4 +6,4 @@
 
 ## Features
 
-<p><a href=https://neuropsychology.github.io/psycho.R/><img src="https://github.com/neuropsychology/PatientAssessmentApp/blob/master/www/Screeshot.PNG" alt="Patient Assessment App"></a></p>
+<p><a href=https://github.com/neuropsychology/PatientAssessmentApp/><img src="https://github.com/neuropsychology/PatientAssessmentApp/blob/master/www/screenshot.png" alt="Patient Assessment App"></a></p>
