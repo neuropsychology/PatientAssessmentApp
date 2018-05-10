@@ -5,6 +5,8 @@
 |Authors|[![](https://img.shields.io/badge/CV-D._Makowski-purple.svg?colorB=9C27B0)](https://dominiquemakowski.github.io/)|
 
 
+---
+
 <p><a href=https://github.com/neuropsychology/PatientAssessmentApp/><img src="https://github.com/neuropsychology/PatientAssessmentApp/blob/master/www/screenshot.png" alt="Patient Assessment App"></a></p>
 
 ## Installation
