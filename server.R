@@ -29,7 +29,7 @@ shinyServer(function(input, output) {
 
     # Get the current regression data
     result <- compute.assessement()
-    plot(result)
+    plot(result) + theme(aspect.ratio = 2 / (1 + sqrt(5)))
 
   })
 

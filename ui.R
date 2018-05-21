@@ -58,14 +58,14 @@ shinyUI(pageWithSidebar(
       br(),
       br(),
       br(),
-      img(src = "logo.png", width = "100%", href="https://github.com/neuropsychology/psycho.R")
+      img(src = "logo.png", width = "50%", href="https://github.com/neuropsychology/psycho.R")
     )
   ),
 
   mainPanel(
 
     div(
-      plotOutput("plot", width=600, height=450)
+      plotOutput("plot")
       # HTML('<center>'),
       # shiny::downloadButton('download.plot'),
       # HTML('</center>')
@@ -88,8 +88,14 @@ shinyUI(pageWithSidebar(
         h1("Info"),
         p("Evidence-based practice is the cornerstone of clinical neuropsychology. Crawford et al. (2012) remind that empirically based decision algorithms are almost always superior to clinically based decision making while being more reliable, accurate, and cost-effective (Dawes, Faust, & Meehl, 1989; Grove & Lloyd, 2006; Salzinger, 2005). Thus, neuropsychologists must integrate the scientific approach into their everyday clinical practice."),
         p("Until relatively recently the standard way of testing for a difference between a case and controls was to convert the case’s score to a z score using the control sample mean and standard deviation (SD). If z was less than -1.645 (i.e., below 95% of the controls) then it was concluded that the case was significantly lower than controls. However, this method has serious disadvantages (Crawford and Garthwaite, 2012)."),
-        p("Manny algorithms have been suggested in order to estimate the uncertainty by computing confidence intervals  Crawford and Garthwaite (2012). Crawford and Garthwaite (2007) demonstrate that their Bayesian test is a better approach than other commonly-used alternatives.")
+        p("Many algorithms have been suggested in order to estimate the uncertainty by computing confidence intervals  Crawford and Garthwaite (2012). Crawford and Garthwaite (2007) demonstrate that their Bayesian test is a better approach than other commonly-used alternatives.")
         ),
+
+    div(br(),
+        hr(),
+        h1("References"),
+        HTML("<ul><li>Crawford, J. R., & Garthwaite, P. H. (2007). Comparison of a single case to a control or normative sample in neuropsychology: Development of a Bayesian approach. Cognitive Neuropsychology, 24(4), 343-372.</li><li>Crawford, J. R., Garthwaite, P. H., & Porter, S. (2010). Point and interval estimates of effect sizes for the case-controls design in neuropsychology: rationale, methods, implementations, and proposed reporting standards. Cognitive neuropsychology, 27(3), 245-260.</li></ul>")
+    ),
 
     div(br(),
         hr(),

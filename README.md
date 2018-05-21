@@ -1,17 +1,31 @@
-|Name|psycho|
+|Name|Patient Assessment App|
 |----------------|---|
-|Stable|[![CRAN](https://www.r-pkg.org/badges/version/psycho)](https://CRAN.R-project.org/package=psycho)|
 |Questions|[![](https://img.shields.io/badge/issue-create-purple.svg?colorB=FF9800)](https://github.com/neuropsychology/PatientAssessmentApp/issues)|
 |Authors|[![](https://img.shields.io/badge/CV-D._Makowski-purple.svg?colorB=9C27B0)](https://dominiquemakowski.github.io/)|
 
 
+
 ---
+
+# How to run it
+
+## Online
+
+-  [neuropsychology.shinyapps.io/patientassessmentapp](https://neuropsychology.shinyapps.io/patientassessmentapp/)
+
+## Local
+
+- [Download R, R studio and the psycho package](https://neuropsychology.github.io/psycho.R/2018/03/21/installingR.html)
+- [Download the Patient Assessment App](https://github.com/neuropsychology/PatientAssessmentApp/zipball/master/)
+- Open the server.R file in R studio. 
+- Click on "Run app" (the green arrow)
+
+---
+
 
 <p><a href=https://github.com/neuropsychology/PatientAssessmentApp/><img src="https://github.com/neuropsychology/PatientAssessmentApp/blob/master/www/screenshot.png" alt="Patient Assessment App"></a></p>
 
-## Installation
 
-- Needs psycho > 0.2.1
 
 ## References
 
