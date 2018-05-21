@@ -20,8 +20,6 @@
 - Open the server.R file in R studio. 
 - Click on "Run app" (the green arrow)
 
----
-
 
 <p><a href=https://github.com/neuropsychology/PatientAssessmentApp/><img src="https://github.com/neuropsychology/PatientAssessmentApp/blob/master/www/screenshot.png" alt="Patient Assessment App"></a></p>
 
