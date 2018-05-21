@@ -15,11 +15,12 @@
 
 ## Local
 
-- [Download R, R studio and the psycho package](https://neuropsychology.github.io/psycho.R/2018/03/21/installingR.html)
-- [Download the Patient Assessment App](https://github.com/neuropsychology/PatientAssessmentApp/zipball/master/)
-- Open the server.R file in R studio. 
-- Click on "Run app" (the green arrow)
+1. [Download R, R studio and the psycho package](https://neuropsychology.github.io/psycho.R/2018/03/21/installingR.html)
+2. [Download the Patient Assessment App](https://github.com/neuropsychology/PatientAssessmentApp/zipball/master/)
+3. Open the server.R file in R studio. 
+4. Click on "Run app" (the green arrow)
 
+---
 
 <p><a href=https://github.com/neuropsychology/PatientAssessmentApp/><img src="https://github.com/neuropsychology/PatientAssessmentApp/blob/master/www/screenshot.png" alt="Patient Assessment App"></a></p>
 
